@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-image: url("");
+  }
+  p {
+    font-family: 'Lobster Two', cursive;
+  }
+  
+  .header {
+    font-family: 'Lobster', cursive;
+  }
+  
+  .anchor {
+    color: black;
+    font-family: 'Lobster Two', cursive;
+  }
+  
+  .story {
+    border: 4px #523609 solid;
+    height: auto;
+    width: 400px; 
+    margin: auto;
+    
+  }
+  
+  .websites {
+    border: 4px #523609 solid;
+    height: 140px;
+    width: 500px; 
+    margin: auto;
+  }
+  
+  .facts {
+    border: 4px #523609 solid;
+    height: auto;
+    width: 400px; 
+    margin: auto;
+  }
